@@ -1,0 +1,8 @@
+gcc getMostFreqChar.c -o gmfc
+./gmfc
+
+gcc addressOfScalar.c -o aos
+./aos
+
+gcc addressOfArray.c -o aoa
+./aoa
