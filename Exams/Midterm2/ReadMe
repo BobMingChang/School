@@ -1,0 +1,8 @@
+gcc ArraySort.c -o AS
+./AS
+
+gcc StringSort.c -o SS
+./SS
+
+gcc CVR.c -o CVR
+./CVR
