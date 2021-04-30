@@ -1,0 +1,50 @@
+pwd
+ls
+cd Lab2_P2
+ls
+-r public
+rm -r public
+ls
+mv /home/jcho18/Lab2_P2 myRealEstate.csv RealEstate.csv
+mv /home/jcho18/Lab2_P2 myRealEstate.csv public
+mv myRealEstate.csv RealEstate.csv
+cd
+pd
+ls
+cd public
+ls
+cd
+cd ~
+ls
+pwd
+cp /home/Jcho18/Lab2_P2/myRealEstate.csv public
+pwd
+ls
+cd public
+ls
+cp /home/frondel1/Public/RealEstate.csv myRealEstate.csv
+ls
+pwd
+wc myRealEstate.csv
+pwd
+cd public
+ls
+mkdir Regular
+mv Regular Others
+ls
+mkdir Submission
+cd Submission
+mkdir Lab2
+mkdir Lab3
+cd
+ls
+pwd
+cd Lab2
+cd public
+cd public
+cd Submission
+cd Lab2
+ls
+cp -r /home/jcho18/Lab2_P2 Lab2_P2
+rm -r /home/jcho18/Lab2_P2
+history
