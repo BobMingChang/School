@@ -1,0 +1,7 @@
+InstructionS:
+
+Initialize: gcc myname.c -o mn
+Run: ./mn
+
+
+Run: ./hello.sh
