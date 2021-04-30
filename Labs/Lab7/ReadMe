@@ -1,0 +1,5 @@
+gcc getPhoneNumber.c -o gpn
+./gpn
+
+gcc calcPrice.c -o cp
+./cp
