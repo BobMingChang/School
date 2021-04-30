@@ -1,0 +1,7 @@
+gcc splitTime.c -o st
+./st
+
+gcc findStr -o fs
+./fs
+
+./strcpy.sh
