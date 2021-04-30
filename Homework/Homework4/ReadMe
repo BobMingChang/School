@@ -1,1 +1,17 @@
+Code to run Programs.
 
+
+Initialize: gcc checkpasswd.c -o cp
+Run: ./cp
+
+Initialize: gcc checkpasswd2.c -o cp2
+Run: ./cp2
+
+Initialize: gcc Swap.c -o swap
+Run: ./swap
+
+Initialize: gcc dialcode.c -o dc
+Run: ./dc
+
+Initialize: gcc palinndrome.c -o pal
+Run: ./pal
